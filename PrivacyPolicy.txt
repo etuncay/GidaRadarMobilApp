@@ -1,0 +1,42 @@
+GIDA RADAR PRIVACY POLICY
+Effective Date: 20.03.2025
+Last Updated: 20.03.2025
+
+Gıda Radar (“Application”) is committed to protecting the privacy of its users. This Privacy Policy explains how we collect, use, store, and protect user data within the Application.
+
+1. Data Collection and Usage
+The Application may collect the following types of data:
+
+a. Automatically Collected Data
+Upon the first launch of the Application, certain data must be downloaded to ensure proper functionality. Once this process is completed, the Application can be used without an internet connection.
+
+b. User-Provided Data
+The Application may process data provided by the user for specific features. However, it does not intend to collect any sensitive personal data.
+
+c. Device Data and Analytics
+Anonymous usage statistics may be collected to improve the Application’s performance and enhance user experience.
+
+2. Data Storage and Protection
+The collected data is stored securely and retained only for as long as necessary. We implement industry-standard security measures to protect user data.
+
+3. Third-Party Services
+Gıda Radar may integrate with third-party service providers. The use of such services is subject to the respective third parties’ privacy policies.
+
+4. Cookies and Tracking Technologies
+The Application does not use cookies or similar tracking technologies.
+
+5. User Rights
+Users have the following rights regarding their data:
+
+Access to collected data,
+Request for data correction or deletion,
+Objection to data processing activities.
+To exercise these rights, users can contact us via the details provided below.
+
+6. Privacy Policy Updates
+This Privacy Policy may be updated when necessary. Changes will become effective once the updated version is published.
+
+7. Contact Information
+For any questions or requests regarding this Privacy Policy, you may contact us through the following channels:
+
+Email: etuncay.ytb@gmail.com
