@@ -1,41 +1,38 @@
+Gizlilik Politikası
 Yürürlük Tarihi: 20.03.2025
 Son Güncelleme: 20.03.2025
 
-Gıda Radar uygulaması (“Uygulama”) olarak, kullanıcılarımızın gizliliğini korumayı taahhüt etmekteyiz. Bu Gizlilik Politikası, Uygulama tarafından toplanan verilerin nasıl işlendiğini, saklandığını ve korunduğunu açıklamaktadır.
+1. Giriş
+Gıda Radar uygulaması (“Uygulama”), kullanıcı verilerinin korunmasına büyük önem vermektedir. Bu Gizlilik Politikası, uygulama tarafından toplanan verilerin nasıl işlendiğini, saklandığını ve korunduğunu açıklamaktadır. Uygulama, resmi bir devlet kuruluşunu temsil etmemekte olup, bağımsız olarak hizmet sunmaktadır.
 
-1. Toplanan Veriler ve Kullanımı
-Uygulama, aşağıdaki türde verileri toplayabilir:
-
+2. Toplanan Veriler ve Kullanım Amaçları
 a. Otomatik Olarak Toplanan Veriler
-Uygulamanın ilk kez açılması sırasında, hizmetlerin düzgün çalışmasını sağlamak amacıyla belirli veriler indirilmektedir. Bu işlem tamamlandıktan sonra, uygulama internet bağlantısı gerektirmeden kullanılabilir.
+Uygulama, ilk açılış sırasında hizmetlerin düzgün çalışmasını sağlamak amacıyla belirli verileri otomatik olarak indirebilmektedir. Bu işlem tamamlandıktan sonra uygulama, internet bağlantısı gerektirmeksizin kullanılabilir.
 
 b. Kullanıcı Tarafından Sağlanan Veriler
-Uygulama, belirli özelliklerin kullanımı için sizin tarafınızdan sağlanan verileri işleyebilir. Ancak, hassas kişisel veri toplama amacı bulunmamaktadır.
+Uygulama, belirli özelliklerin kullanımı esnasında kullanıcı tarafından sağlanan verileri işleyebilmektedir. Hassas kişisel verilerin toplanması amaçlanmamaktadır.
 
 c. Cihaz Verileri ve Analitik Bilgiler
-Uygulamanın performansını iyileştirmek ve kullanıcı deneyimini geliştirmek amacıyla anonim kullanım istatistikleri toplanabilir.
+Uygulamanın performansını iyileştirmek ve kullanıcı deneyimini geliştirmek amacıyla, anonim kullanım istatistikleri toplanabilmektedir.
 
-2. Verilerin Saklanması ve Korunması
-Toplanan veriler, yalnızca gerekli olduğu süre boyunca saklanmakta ve güvenli bir şekilde korunmaktadır. Veri güvenliği için sektör standartlarına uygun önlemler alınmaktadır.
+3. Verilerin Saklanması ve Korunması
+Toplanan veriler, yalnızca gerekli olduğu süre boyunca saklanmakta ve güvenlik standartlarına uygun olarak korunmaktadır. Veri güvenliği için sektör standartlarına uygun teknik ve idari önlemler alınmaktadır.
 
-3. Üçüncü Taraf Hizmetler
-Gıda Radar, üçüncü taraf hizmet sağlayıcıları ile entegre olabilir. Bu tür hizmetlerin kullanımı, ilgili üçüncü tarafların gizlilik politikalarına tabidir.
+4. Üçüncü Taraf Hizmet Sağlayıcıları
+Gıda Radar, üçüncü taraf hizmet sağlayıcıları ile entegre olabilmektedir. Bu hizmetlerin kullanımı sırasında, ilgili üçüncü tarafların gizlilik politikalarına tabi olunmaktadır.
 
-4. Çerezler ve Takip Teknolojileri
-Uygulama, çerezler veya benzeri izleme teknolojileri kullanmamaktadır.
+5. Çerezler ve Takip Teknolojileri
+Uygulama, çerezler veya benzeri izleme teknolojilerini kullanmamaktadır.
 
-5. Kullanıcı Hakları
-Kullanıcılar, aşağıdaki haklara sahiptir:
+6. Kullanıcı Hakları
+Kullanıcılar, kendilerine ilişkin toplanan verilere erişme, verilerin düzeltilmesini veya silinmesini talep etme ile veri işleme faaliyetlerine itiraz etme hakkına sahiptir. Bu haklardan yararlanmak için aşağıda belirtilen iletişim kanallarını kullanabilirsiniz.
 
-Kendileriyle ilgili toplanan verilere erişme,
-Verilerinin düzeltilmesini veya silinmesini talep etme,
-Veri işleme faaliyetlerine itiraz etme.
-Bu haklardan herhangi birini kullanmak için bizimle iletişime geçebilirsiniz.
+7. Gizlilik Politikasının Güncellenmesi
+Bu Gizlilik Politikası, gerekli görüldüğünde güncellenebilmektedir. Yapılan değişiklikler, güncellenmiş sürümün yayınlanmasıyla yürürlüğe girer. Güncel politika, uygulamanın mağaza sayfasında yer alan aktif URL üzerinden erişilebilir durumdadır.
 
-6. Gizlilik Politikası Güncellemeleri
-Bu Gizlilik Politikası, gerekli görüldüğünde güncellenebilir. Yapılan değişiklikler, güncellenmiş sürümün yayınlanmasıyla yürürlüğe girer.
+8. Sorumluluk Reddi
+Gıda Radar uygulaması, resmi bir devlet kuruluşunu temsil etmemektedir. Uygulama içerisindeki bilgiler, bağımsız kaynaklardan derlenmiş olup, resmi hizmet sunma yetkisi taşımamaktadır.
 
-7. İletişim Bilgileri
-Gizlilik politikamız hakkında sorularınız veya talepleriniz için aşağıdaki iletişim kanalları üzerinden bizimle iletişime geçebilirsiniz:
-
+9. İletişim Bilgileri
+Gizlilik politikamız ile ilgili sorular veya talepleriniz için aşağıdaki iletişim kanalı üzerinden bizimle iletişime geçebilirsiniz:
 E-posta: etuncay.ytb@gmail.com
